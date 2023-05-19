@@ -1,7 +1,15 @@
 Flask
+Flask-Cors
 sklearn
+scikit-learn
+pickle5
 pandas
 numpy
+click
 matplotlib
 gunicorn
 seaborn 
+itsdangerous
+jinja2
+MarkupSafe
+Werkzeug
